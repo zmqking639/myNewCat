@@ -1,0 +1,5 @@
+2021-10-14 13:55:48: [dataHost=localhost1, dataSource=hostM1,statue=ok status -> error status]
+2021-10-14 13:57:52: [dataHost=localhost1, dataSource=hostM1,statue=ok status -> error status]
+2021-10-14 13:58:49: [dataHost=localhost1, dataSource=hostM1,statue=ok status -> error status]
+2021-10-14 14:00:17: [dataHost=localhost1, dataSource=hostM1,statue=ok status -> error status]
+2021-10-14 14:08:12: [dataHost=localhost1, dataSource=hostM1,statue=ok status -> error status]
